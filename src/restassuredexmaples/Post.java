@@ -42,15 +42,9 @@ public class Post {
 			
 			System.out.println("**********************************************************");
 			
-			System.out.println(newrecord);
-		}
+			System.out.println(newrecord);		
 		
-		
-		
-		
-		
-		
-	
 	}
 
+}
 }
